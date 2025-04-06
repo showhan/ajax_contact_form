@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-08-17 14:09+0600\n"
+"PO-Revision-Date: 2021-08-17 14:09+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: languages\n"
+
+#: includes/admin/admin-fields.php:15
+msgid "Form Settings"
+msgstr ""
+
+#: includes/admin/admin-fields.php:22
+msgid "Recipient Email Address"
+msgstr ""
+
+#: includes/admin/admin-fields.php:31
+msgid ""
+"Message Pattern (mail-body) <small>You can use the following field keys to "
+"generate them dynamically. <br> %firstName%<br>%lastName%<br>%email%<br>"
+"%subject%<br>%message%</small>"
+msgstr ""
+
+#: includes/admin/admin-fields.php:40
+msgid "Success Message"
+msgstr ""
+
+#: includes/admin/admin-fields.php:103
+msgid "Options"
+msgstr ""
+
+#: includes/admin/admin-fields.php:125
+msgid "Settings Saved"
+msgstr ""
+
+#: includes/admin/admin-fields.php:133
+msgid "Form Options"
+msgstr ""
+
+#: includes/admin/admin-fields.php:143
+msgid "Save Settings"
+msgstr ""
+
+#: includes/form-entry-display.php:7
+msgid "Form Entries"
+msgstr ""
+
+#: includes/form-entry-display.php:41 includes/form-shortcode.php:21
+msgid "First Name"
+msgstr ""
+
+#: includes/form-entry-display.php:42 includes/form-shortcode.php:25
+msgid "Last Name"
+msgstr ""
+
+#: includes/form-entry-display.php:43 includes/form-shortcode.php:30
+msgid "Email"
+msgstr ""
+
+#: includes/form-entry-display.php:44 includes/form-shortcode.php:34
+msgid "Subject"
+msgstr ""
+
+#: includes/form-entry-display.php:45 includes/form-shortcode.php:38
+msgid "Message"
+msgstr ""
+
+#: includes/form-entry-display.php:63 includes/form-entry-display.php:119
+msgid "&laquo;"
+msgstr ""
+
+#: includes/form-entry-display.php:64 includes/form-entry-display.php:120
+msgid "&raquo;"
+msgstr ""
+
+#: includes/form-shortcode.php:8
+msgid "Submit your feedback"
+msgstr ""
+
+#: includes/form-shortcode.php:42
+msgid "Submit"
+msgstr ""
+
+#: includes/form_submission_ajax.php:50
+msgid "Thank you for your submission!"
+msgstr ""
+
+#: includes/form_submission_ajax.php:67
+msgid "Simple Contact Form"
+msgstr ""
+
+#: includes/main-class.php:72
+msgid "Simple Form Settings"
+msgstr ""
+
+#: includes/main-class.php:72
+msgid "SF Settings"
+msgstr ""
+
+#: includes/main-class.php:75
+msgid "General"
+msgstr ""
+
+#: includes/main-class.php:111
+msgid "Documentation"
+msgstr ""
+
+#: includes/main-class.php:113
+msgid ""
+"This plugin has 2 shortcodes that you can use to display the form and form "
+"entries on the front-end."
+msgstr ""
+
+#: includes/main-class.php:115
+msgid "Form Shortcode"
+msgstr ""
+
+#: includes/main-class.php:118
+msgid "Form Entry Shortcode"
+msgstr ""
+
+#: includes/main-class.php:134
+msgid "This field cannot be blank"
+msgstr ""
+
+#: includes/main-class.php:135
+msgid "Invalid Email"
+msgstr ""

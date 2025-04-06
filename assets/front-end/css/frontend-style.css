@@ -1,0 +1,90 @@
+.sf-form .sf-form-wrapper {
+	width: 80%;
+	margin: 0 auto;
+	max-width: 450px;
+}
+.sf-form .sf-form-wrapper label {
+	display: block;
+	margin-bottom: 2px;
+	font-size: 15px;
+	font-weight: 500;
+	color: #000;
+}
+.sf-form .sf-form-wrapper .input-field {
+	margin-bottom: 15px;
+	width: 100%;
+}
+.sf-form .sf-form-wrapper input, .sf-form .sf-form-wrapper textarea {
+	height: 50px;
+	border: 2px solid #000;
+	width: 100%;
+}
+.sf-form .input-group {
+	display: flex;
+	gap: 10px;
+}
+.sf-form .sf-form-wrapper textarea {
+	height: 170px;
+}
+.sf-form .frm-error {
+	font-size: 12px;
+	color: #ff0000;
+	margin-top: 0;
+	display: inline-block;
+}
+.sf-form .sf-form-wrapper .submit-btn {
+	background: #000;
+	color: #fff;
+	font-size: 20px;
+	cursor: pointer;
+	line-height: 25px;
+	padding: 5px;
+}
+.sf-form .form-titlte, .sf-entry-table-box .entry-table-title {
+	font-size: 30px;
+	font-weight: 600;
+	margin-bottom: 50px;
+	text-align: center;
+}
+table.sf-entry-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+table.sf-entry-table td, table.sf-entry-table th {
+  border: 1px solid #000;
+  text-align: left;
+  padding: 8px;
+}
+table.sf-entry-table tr:nth-child(even) {
+  background-color: #dddddd;
+}
+.sf_pagination {
+	margin-top: 50px;
+	text-align: center;
+}
+.sf_pagination .page-numbers {
+	background: #333;
+	color: #eee;
+	padding: 7px 15px;
+	text-decoration: none;
+}
+.sf_pagination .page-numbers.current {
+	background: #000;
+}
+div.sf-entry-table-box div.sf_pagination .page-numbers:focus {
+	background: #333;
+	text-decoration: none;
+}
+.sf-entry-table-box .sf-entry-table {
+	max-width: 800px;
+	width: 80%;
+	margin: 0 auto;
+}
+
+/** Responsive CSS */
+@media only screen and (max-width:  767px){
+	.sf-form .input-group {
+		flex-direction: column;
+		gap: 0;
+	}
+}

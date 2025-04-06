@@ -1,0 +1,9 @@
+.sf-settings h2 code {
+	margin-left: 20px;
+}
+.sf_backend_fields input, .sf_backend_fields textarea {
+	width: 100%;
+}
+.sf_backend_fields #submit {
+	width: auto;
+}
